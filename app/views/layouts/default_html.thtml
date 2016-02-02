@@ -1,0 +1,5 @@
+<html>
+	<body style="font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#2F4F4F;">
+		<?php echo str_replace(SEPERATOR, SEPERATOR_HTML, $content_for_layout); ?>
+	</body>
+</html>

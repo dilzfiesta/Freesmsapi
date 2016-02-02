@@ -1,0 +1,60 @@
+#freesmsapi_widget_d {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	background-color: #e6eff8;
+	border:1px solid #4682B4;
+	padding: 8px;
+}
+#freesmsapi_widget_d form {
+	marin:0px;
+	padding:0px;
+}
+#freesmsapi_widget_d_in {
+	font: 12px Verdana, Geneva, Arial, sans-serif;
+	border:1px solid #4682B4;
+	background-color:#fff;
+	margin-bottom: 5px;
+	display: block;
+	padding: 4px;
+	width: 100%;
+	height: 25px;
+}
+#freesmsapi_widget_d_t {
+	font: 12px Verdana, Geneva, Arial, sans-serif;
+	border:1px solid #4682B4;
+	background-color:#fff;
+	margin-bottom: 5px;
+	display: block;
+	padding: 4px;
+	width: 100%;
+	overflow: auto;
+}
+#freesmsapi_widget_d_is {
+	font: 12px Verdana, Geneva, Arial, sans-serif;
+	color:#000;
+	border:1px solid #4682B4;
+	background-color:#F2F2F2;
+	margin-bottom: 5px;
+	display: block;
+	padding: 4px;
+	cursor:pointer;
+	width: 100%;
+	size: 160;
+}
+#freesmsapi_widget_d .note {
+	font: 10px Verdana, Geneva, Arial, sans-serif;
+	padding:4px;
+	width:auto;
+	background-color: #FFE;
+	border: 1px solid #EE0;
+	text-align: center;
+}
+#freesmsapi_widget_d a:link, #freesmsapi_widget_d a:visited {
+	color: #06f;
+	text-decoration: none
+}
+#freesmsapi_widget_d a:hover {
+	color: red;
+	text-decoration: none
+}

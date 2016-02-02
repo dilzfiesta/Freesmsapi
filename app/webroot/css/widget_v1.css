@@ -1,0 +1,64 @@
+#freesmsapi_widget_d {
+        font: 12px Verdana,Geneva,Arial,sans-serif;
+        text-align: left;
+        margin: 0;
+        background-color: #e6eff8;
+        border:1px solid steelblue; /*#4682B4*/
+        padding: 8px;
+}
+#freesmsapi_widget_d label {
+        color: #000;
+        font-weight: normal;
+}
+#freesmsapi_widget_d form {
+        background-color: #e6eff8;
+}
+#freesmsapi_widget_d_in, #freesmsapi_widget_d_fm, #freesmsapi_widget_d_vr {
+	font: 12px Verdana,Geneva,Arial,sans-serif;
+	border:1px solid #4682B4;
+	background-color:#fff;
+	margin: 0 0 5px 0;
+	color: #000;
+	display: block;
+	padding: 4px;
+	width: 100%;
+	height: auto;
+}
+#freesmsapi_widget_d_t {
+	font: 12px Verdana,Geneva,Arial,sans-serif;
+	border:1px solid #4682B4;
+	background-color:#fff;
+	color: #000;
+	margin: 0 0 5px 0;
+	display: block;
+	padding: 4px;
+	width: 100%;
+	overflow: auto;
+}
+#freesmsapi_widget_d_is, #freesmsapi_widget_d_isv, #freesmsapi_widget_d_igb {
+	font: 12px Verdana,Geneva,Arial,sans-serif;
+	border:1px solid #4682B4;
+	background-color:#F2F2F2;
+	color: #000;
+	margin: 0 0 5px 0;
+	display: block;
+	padding: 4px;
+	cursor:pointer;
+	width: 100%;
+}
+#freesmsapi_widget_d .note {
+	font-size: 10px;
+	padding:4px;
+	width:auto;
+	background-color: #FFE;
+	border: 1px solid #EE0;
+	text-align: center;
+}
+#freesmsapi_widget_d a:link, #freesmsapi_widget_d a:visited {
+	color: #06f;
+	text-decoration: none
+}
+#freesmsapi_widget_d a:hover {
+	color: red;
+	text-decoration: none
+}
